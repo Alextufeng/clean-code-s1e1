@@ -35,6 +35,7 @@
 }
 .task-row {
   display: flex;
+  margin-top: 20px;
 }
 .tasks-list {
   margin: 0;
@@ -90,7 +91,6 @@
 /* New Task */
 .next-task-label {
   display: block;
-  margin: 0 0 20px;
 }
 .next-task-input {
   width: 318px;
